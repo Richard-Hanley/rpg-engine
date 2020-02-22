@@ -1,13 +1,22 @@
-# rpg-engine
-A rules engine for tabletop style rpg games
+# rpg
 
-I'm still working out the rules for an rpg I'd like to use.  Evetually this repo will be used to help automate some rules evaluation during gameplay
+A Clojure library designed to ... well, that part is up to you.
 
-What would a rules system for tabletop RPGs include
+## Usage
 
-1) Managing action economy and determining initiave orders
-2) Setting up skill trees, and mapping skills to playable actions
-3) Generating probability distributions for an action based on action difficulty and skill trees\
-4) A data model for creating custom actions
+FIXME
 
-In general I'd like to create a RPG rules generator.  This would allow different gamemasters to create their own rules systems that fit thier playstyle and story goals
+## License
+
+Copyright © 2020 FIXME
+
+This program and the accompanying materials are made available under the
+terms of the Eclipse Public License 2.0 which is available at
+http://www.eclipse.org/legal/epl-2.0.
+
+This Source Code may also be made available under the following Secondary
+Licenses when the conditions for such availability set forth in the Eclipse
+Public License, v. 2.0 are satisfied: GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or (at your
+option) any later version, with the GNU Classpath Exception which is available
+at https://www.gnu.org/software/classpath/license.html.
